@@ -1,0 +1,10 @@
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\bin\Debug\Petshop.exe.config
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\bin\Debug\Petshop.exe
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\bin\Debug\Petshop.pdb
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.frm_PetShop.resources
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.exe
+C:\Users\rhamada\Desktop\PetShop\Petshop\Petshop\obj\Debug\Petshop.pdb
